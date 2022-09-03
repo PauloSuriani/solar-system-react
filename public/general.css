@@ -1,0 +1,66 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  padding: 10px;
+}
+
+h2 {
+  color: white;
+}
+
+#cards {
+  color: white;
+  display: block;
+  padding: 15px;
+}
+
+img {
+    width: 200px;
+}
+img:hover {
+  transform: scaleX(-1);
+  /* transform: scaleX(-3); */
+}
+
+#planetas {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#title-planet-card {
+  text-align: center;
+  font-size: x-large;
+
+}
+
+#missCard {
+  margin: 9px;
+  cursor: pointer;
+  color: white;
+  background-color: brown;
+  padding: 3%;
+  width: 150px;
+  box-shadow: 5px 5px 2px 1px lightgray inset;
+  border-radius: 10%;
+}
+
+#missCard:hover {
+    margin: 9px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(167, 15, 15);
+    padding: 3%;
+    width: 150px;
+    box-shadow: 5px 5px 2px 1px lightgray;
+    border-radius: 10%;
+  }
+
+#missoes {
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}

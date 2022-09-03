@@ -18,11 +18,10 @@ h2 {
 }
 
 img {
-    width: 200px;
+  width: 200px;
 }
 img:hover {
   transform: scaleX(-1);
-  /* transform: scaleX(-3); */
 }
 
 #planetas {
@@ -48,15 +47,15 @@ img:hover {
 }
 
 #missCard:hover {
-    margin: 9px;
-    cursor: pointer;
-    color: white;
-    background-color: rgb(167, 15, 15);
-    padding: 3%;
-    width: 150px;
-    box-shadow: 5px 5px 2px 1px lightgray;
-    border-radius: 10%;
-  }
+  margin: 9px;
+  cursor: pointer;
+  color: white;
+  background-color: rgb(167, 15, 15);
+  padding: 3%;
+  width: 150px;
+  box-shadow: 5px 5px 2px 1px lightgray;
+  border-radius: 10%;
+}
 
 #missoes {
   color: white;

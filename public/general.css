@@ -1,8 +1,9 @@
 body {
-  background-color: black;
+  /* background-color: black; */
 }
 
 h1 {
+  align-items: center;
   color: white;
   padding: 10px;
 }

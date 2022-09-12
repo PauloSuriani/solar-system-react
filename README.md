@@ -1,6 +1,6 @@
 # Sistema Solar
 
-Olá, esta aplicação foi desenvolvida em **React**, estilizada com **CSS** nativo. Hospedada com o framework, na branch **gh-pages**. Acesse a página [aqui](https://paulosuriani.github.io/solar-system-react/).
+Olá, esta aplicação foi desenvolvida em **React**, estilizada com **CSS** nativo. Hospedada com o framework, na branch **gh-pages**. Acesse a página [online](https://paulosuriani.github.io/solar-system-react/).
 
 
 # Contexto
@@ -13,7 +13,7 @@ Implementação feita a fins de estudo.
 
   * Utilizar JSX no React
 
-  * Utilizar corretamente o método `render()` para renderizar seus componentes
+  * Utilizar o método `render()` para renderizar seus componentes
 
   * Utilizar `import` para trazer componentes em diferentes arquivos
 
@@ -21,9 +21,9 @@ Implementação feita a fins de estudo.
 
   * Criar múltiplos componentes a partir de um array
 
-  * Fazer uso de `props` corretamente
+  * Fazer uso de `props` 
 
-  * Fazer uso de `PropTypes` para validar as `props de um componente`
+  * Fazer uso de `PropTypes` para validar as `props` de um componente
 
 
 

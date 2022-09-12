@@ -1,13 +1,17 @@
 # Sistema Solar
 
-Olá, esta aplicação foi desenvolvida em **React**, estilizada com **CSS** nativo. Hospedada com o framework, na branch **gh-pages**. Acesse a página [online](https://paulosuriani.github.io/solar-system-react/).
+Olá, esta aplicação foi desenvolvida em **React**, estilizada com **CSS** nativo. Hospedada com o próprio framework auxiliar do GitHub, na branch **gh-pages**. Veja a página [online](https://paulosuriani.github.io/solar-system-react/).
 
 
 # Contexto
 
-Implementação feita a fins de estudo.
+Implementação feita a fins de estudo. Inicialmente um projeto básico em ReactJs, onde implementei novas funcionalidades.
 
 ## Habilidades
+
+  * Uso de estados e classes em React
+  
+  * Tratativa de eventos e integração com estados
 
   * Componentização
 
